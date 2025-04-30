@@ -25,10 +25,7 @@ This project uses:
 ├── items.json           # Sample item data (for reference)
 ├── README.md            # This documentation file
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dosa-api.git
-cd dosa-api
+git clone https://github.com/Ishika2509/Final_Project_API.git
+cd Final_Project_API

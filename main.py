@@ -1,3 +1,4 @@
+# Final project for  - Dosa Restaurant API
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import sqlite3
